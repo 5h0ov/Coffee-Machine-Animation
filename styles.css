@@ -51,10 +51,12 @@
   box-sizing: border-box;
 }
 .coffee-button {
-  display: block;
-  margin: 20px auto;
+  display: inline-block;
+  position: absolute;
+  margin: 20px;
   padding: 10px 20px;
-  bottom: 100px;
+  left: 110px;
+  bottom: 56px;
   font-size: 16px;
   font-weight: bold;
   color: #fff;
